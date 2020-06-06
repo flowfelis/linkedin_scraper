@@ -1,0 +1,12 @@
+1591458963200	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofile8Kiy3N"
+1591458969516	Marionette	INFO	Listening on port 49934
+1591458969591	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1591459077582	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileUryCei"
+1591459082020	Marionette	INFO	Listening on port 50042
+1591459082121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591459104342	Marionette	INFO	Stopped listening on port 50042

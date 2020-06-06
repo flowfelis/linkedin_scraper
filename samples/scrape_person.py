@@ -1,9 +1,19 @@
 import os
 from linkedin_scraper import Person, actions
 from selenium import webdriver
-driver = webdriver.Chrome("./chromedriver")
 
-email = os.getenv("LINKEDIN_USER")
-password = os.getenv("LINKEDIN_PASSWORD")
-actions.login(driver, email, password) # if email and password isnt given, it'll prompt in terminal
-person = Person("https://www.linkedin.com/in/andre-iguodala-65b48ab5", driver=driver)
+
+def main():
+    driver = webdriver.Firefox()
+
+    email = "alicand96@gmail.com"
+    password = "secret1234"
+    actions.login(driver, email, password)  # if email and password isnt given, it'll prompt in terminal
+    # person = Person("https://www.linkedin.com/in/andre-iguodala-65b48ab5", driver=driver)
+    person = Person("https://www.linkedin.com/in/ahmet-aydin-41a37a111", driver=driver, get=False,
+                    close_on_complete=False)
+    print(person)
+
+
+if __name__ == '__main__':
+    main()

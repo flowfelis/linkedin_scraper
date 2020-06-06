@@ -1,0 +1,157 @@
+1591459136451	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofile3cFjfG"
+1591459140899	Marionette	INFO	Listening on port 50153
+1591459140970	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1591459163471	Marionette	INFO	Stopped listening on port 50153
+1591460679769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileX3DuQp"
+1591460683964	Marionette	INFO	Listening on port 50703
+1591460684058	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1591460783625	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofile6ft2JI"
+1591460787667	Marionette	INFO	Listening on port 50825
+1591460787716	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-06-06 18:29:33.255 plugin-container[3383:42424] PLClientLogging: unknown permission type 2
+1591460999190	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofilee7yCNw"
+1591461004403	Marionette	INFO	Listening on port 50986
+1591461004465	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1591461109524	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileLZbRpS"
+1591461113781	Marionette	INFO	Listening on port 51107
+1591461113844	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1591461219254	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileb7Aru6"
+1591461223435	Marionette	INFO	Listening on port 51247
+1591461223463	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591461238397	Marionette	INFO	Stopped listening on port 51247
+1591461565838	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofile4CCHeq"
+1591461569835	Marionette	INFO	Listening on port 51404
+1591461569941	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1591461919825	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofilew2PxNK"
+1591461923767	Marionette	INFO	Listening on port 51582
+1591461923851	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1591462072061	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileYULgkp"
+1591462076091	Marionette	INFO	Listening on port 51723
+1591462076195	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1591462142450	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileit2eZm"
+1591462146497	Marionette	INFO	Listening on port 51831
+1591462146551	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1591462240877	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofile2akUaQ"
+1591462244947	Marionette	INFO	Listening on port 51955
+1591462245015	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591462272805	Marionette	INFO	Stopped listening on port 51955
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1591462284423	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileHIAKUI"
+1591462288314	Marionette	INFO	Listening on port 52062
+1591462288415	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1591462697929	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileihmH1T"
+1591462701841	Marionette	INFO	Listening on port 52211
+1591462701919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591462732629	Marionette	INFO	Stopped listening on port 52211
+1591463918181	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileb4sdI1"
+1591463922920	Marionette	INFO	Listening on port 52518
+1591463922975	Marionette	WARN	TLS certificate errors will be ignored for this session
+1591463976249	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileUmtkM0"
+1591463981105	Marionette	INFO	Listening on port 52631
+1591463981131	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "stylesheets actor: fetch failed for https://static-exp1.licdn.com/sc/p/com.linkedin.checkpoint%3Acheckpoint-static-content%2B2.2.275/f/%2Fcheckpoint-frontend%2Fstylesheets%2Flogin%2Forganic%2Fdesktop_en_US.css, using system principal instead."
+console.error: "stylesheets actor: fetch failed for https://static-exp1.licdn.com/sc/p/com.linkedin.checkpoint%3Acheckpoint-static-content%2B2.2.275/f/%2Fcheckpoint-frontend%2Fstylesheets%2Flogin%2Forganic%2Fdesktop_en_US.css, using system principal instead."
+JavaScript error: https://smartlock.google.com/iframe/request?client=https%3A%2F%2Fwww.linkedin.com&id=d78496e569386d523053a8a909268268986ecf6bb424b1bd980000cee41db435&renderMode=navPopout&preloadRequest=%7B%22type%22%3A%22hint%22%2C%22options%22%3A%7B%22supportedAuthMethods%22%3A%5B%22https%3A%2F%2Faccounts.google.com%22%5D%2C%22supportedIdTokenProviders%22%3A%5B%7B%22uri%22%3A%22https%3A%2F%2Faccounts.google.com%22%2C%22clientId%22%3A%22990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com%22%7D%5D%2C%22context%22%3A%22signIn%22%7D%7D&features=%7B%22feature%22%3A%5B%22DISPLAY_RP_TOS%22%5D%7D, line 101: ReferenceError: bootstrap is not defined
+JavaScript error: , line 0: uncaught exception: Object
+1591464023939	Marionette	INFO	Stopped listening on port 52631
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/server/actors/inspector/node.js:182:5
+getParent@resource://devtools/shared/protocol/Pool.js:40:5
+destroy@resource://devtools/shared/protocol/Pool.js:165:25
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/node.js:193:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/styles.js:153:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/inspector.js:126:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+_detach@resource://devtools/server/actors/targets/browsing-context.js:995:35
+exit@resource://devtools/server/actors/targets/browsing-context.js:573:10
+destroy@resource://devtools/server/actors/targets/browsing-context.js:554:10
+removeActor@resource://devtools/server/actors/common.js:63:13
+APDestroy@resource://devtools/server/actors/common.js:28:12
+onClosed/<@resource://devtools/server/devtools-server-connection.js:477:37
+onClosed@resource://devtools/server/devtools-server-connection.js:477:22
+close@resource://devtools/shared/transport/child-transport.js:62:16
+close@resource://devtools/server/devtools-server-connection.js:86:23
+onDisconnect<@resource://devtools/server/startup/frame.js:145:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 182, column: 5
+console.error: (new TypeError("this.walker is null", "resource://devtools/server/actors/inspector/node.js", 182))
+console.warn: "IGNORED REDUX ACTION:" ({type:"AUTOCOMPLETE_CLEAR"})
+1591464070044	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileJkqp7d"
+1591464074366	Marionette	INFO	Listening on port 52762
+1591464074478	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1591464144102	Marionette	INFO	Stopped listening on port 52762
+1591464148570	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofile6hLjLa"
+1591464153079	Marionette	INFO	Listening on port 52886
+1591464153145	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet."
+console.error: "hasRulesModifiedByCSSOM@resource://devtools/server/actors/stylesheets.js:364:27\nget canSetRuleText@resource://devtools/server/actors/styles.js:1226:26\ngetAuthoredCssText@resource://devtools/server/actors/styles.js:1584:9\ngetApplied@resource://devtools/server/actors/styles.js:602:18\n"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet."
+console.error: "hasRulesModifiedByCSSOM@resource://devtools/server/actors/stylesheets.js:364:27\nget canSetRuleText@resource://devtools/server/actors/styles.js:1226:26\ngetAuthoredCssText@resource://devtools/server/actors/styles.js:1584:9\ngetApplied@resource://devtools/server/actors/styles.js:602:18\n"
+console.error: (new Error("Protocol error (unknownError): InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet. from: server0.conn0.child2/pagestyle27", "resource://devtools/shared/protocol/Front.js", 319))
+console.error: (new Error("Protocol error (unknownError): InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet. from: server0.conn0.child2/pagestyle27", "resource://devtools/shared/protocol/Front.js", 319))
+console.error: (new Error("Protocol error (unknownError): InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet. from: server0.conn0.child2/pagestyle27", "resource://devtools/shared/protocol/Front.js", 319))
+console.error: (new Error("Protocol error (unknownError): InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet. from: server0.conn0.child2/pagestyle27", "resource://devtools/shared/protocol/Front.js", 319))
+console.error: (new Error("Protocol error (unknownError): InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet. from: server0.conn0.child2/pagestyle27", "resource://devtools/shared/protocol/Front.js", 319))
+console.error: (new TypeError("store is null", "resource://devtools/client/webconsole/webconsole-wrapper.js", 239))
+TypeError: store is null: dispatchSplitConsoleCloseButtonToggle@resource://devtools/client/webconsole/webconsole-wrapper.js:239:5
+_onChangeSplitConsoleState@resource://devtools/client/webconsole/webconsole-ui.js:589:18
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+selectTool/<@resource://devtools/client/framework/toolbox.js:2719:12
+
