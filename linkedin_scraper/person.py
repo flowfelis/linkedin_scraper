@@ -39,6 +39,7 @@ class Person(Scraper):
 
         if get:
             driver.get(linkedin_url)
+            self.scroll_to_bottom(driver)
 
         self.driver = driver
 
@@ -62,8 +63,8 @@ class Person(Scraper):
 
     def scrape(self, close_on_complete=True):
         if self.is_signed_in():
-            self.get_connections(close_on_complete=close_on_complete)
-            # self.scrape_logged_in(close_on_complete=close_on_complete)
+            # self.get_connections(close_on_complete=close_on_complete)
+            self.scrape_logged_in(close_on_complete=close_on_complete)
         else:
             self.scrape_not_logged_in(close_on_complete=close_on_complete)
 

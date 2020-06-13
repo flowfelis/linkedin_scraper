@@ -320,3 +320,42 @@ console.error: "Panel inspector:" (new TypeError("event is undefined", "resource
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
 1592070734601	Marionette	INFO	Stopped listening on port 49815
+1592071006909	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofilexgRfRu"
+1592071011589	Marionette	INFO	Listening on port 52787
+1592071011635	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592071343007	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofile3Im9Xh"
+1592071347466	Marionette	INFO	Listening on port 52939
+1592071347525	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1592071478698	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofilefePaqE"
+1592071484759	Marionette	INFO	Listening on port 53073
+1592071484868	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1592071899215	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofilefJziKs"
+1592071903942	Marionette	INFO	Listening on port 53286
+1592071904027	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1592071980090	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileLYN3jN"
+1592071984330	Marionette	INFO	Listening on port 53407
+1592071984401	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1592072172229	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofiley0oXH9"
+1592072176655	Marionette	INFO	Listening on port 53522
+1592072176773	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1592072460516	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofilevJeamK"
+1592072465263	Marionette	INFO	Listening on port 53667
+1592072465341	Marionette	WARN	TLS certificate errors will be ignored for this session
