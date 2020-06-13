@@ -67,34 +67,50 @@ class Person(Scraper):
         else:
             self.scrape_not_logged_in(close_on_complete=close_on_complete)
 
+    def scroll_to_bottom(self, driver):
+
+        old_position = 0
+        new_position = None
+
+        while new_position != old_position:
+            # Get old scroll position
+            old_position = driver.execute_script(
+                ("return (window.pageYOffset !== undefined) ?"
+                 " window.pageYOffset : (document.documentElement ||"
+                 " document.body.parentNode || document.body);"))
+            # Sleep and Scroll
+            time.sleep(1)
+            driver.execute_script((
+                "var scrollingElement = (document.scrollingElement ||"
+                " document.body);scrollingElement.scrollTop ="
+                " scrollingElement.scrollHeight;"))
+            # Get new position
+            new_position = driver.execute_script(
+                ("return (window.pageYOffset !== undefined) ?"
+                 " window.pageYOffset : (document.documentElement ||"
+                 " document.body.parentNode || document.body);"))
+
+    def collect_connections(self):
+        """Collect all connection links in a list and return"""
+        driver = self.driver
+
+        conns = driver.find_elements_by_css_selector('div.mn-connection-card__details')
+        conn_list = []
+        for conn in conns:
+            a = conn.find_element(By.TAG_NAME, 'a')
+            conn_list.append(a.get_attribute('href'))
+
+        return conn_list
+
     def get_connections(self, close_on_complete=True):
         driver = self.driver
 
-        # Go to connections
         driver.get('https://www.linkedin.com/mynetwork/invite-connect/connections/')
 
-        # Enter loop
-        # while True:
-        # Press Home
+        self.scroll_to_bottom(driver)
 
-        keyboard.press(Key.home)
-        keyboard.release(Key.home)
-
-        driver.execute_script('console.log(window.scrollY)')
-
-        # Wait 2 seconds
-        time.sleep(2)
-
-        # Press End
-        keyboard.press(Key.end)
-        keyboard.release(Key.end)
-
-        driver.execute_script('console.log(window.scrollY)')
-
-        # Wait 10 seconds
-        time.sleep(10)
-
-        print('hey')
+        all_conns = self.collect_connections()
+        print(all_conns)
 
         if close_on_complete:
             driver.quit()

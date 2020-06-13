@@ -155,3 +155,168 @@ emit@resource://devtools/shared/event-emitter.js:172:18
 emit@resource://devtools/shared/event-emitter.js:324:18
 selectTool/<@resource://devtools/client/framework/toolbox.js:2719:12
 
+1591464438393	Marionette	INFO	Stopped listening on port 52886
+1591464440384	Marionette	INFO	Stopped listening on port 52518
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1591464445878	Marionette	INFO	Stopped listening on port 50825
+1591543031156	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileAz5zab"
+1591543044681	Marionette	INFO	Listening on port 54637
+1591543044991	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1591545098389	Marionette	INFO	Stopped listening on port 54637
+1592064836378	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileW3IABs"
+1592064840984	Marionette	INFO	Listening on port 49815
+1592064841050	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1592065459107	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileXI4Es9"
+1592065464058	Marionette	INFO	Listening on port 49962
+1592065464113	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592065530935	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofilew1Cbjq"
+1592065535193	Marionette	INFO	Listening on port 50114
+1592065535249	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1592065653659	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofiletJuARe"
+1592065657886	Marionette	INFO	Listening on port 50254
+1592065658023	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1592065904455	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileOGo5Db"
+1592065908331	Marionette	INFO	Listening on port 50424
+1592065908340	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592065960587	Marionette	INFO	Stopped listening on port 50424
+1592065967083	Marionette	INFO	Stopped listening on port 49962
+1592066229330	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileAQ4QZT"
+1592066233126	Marionette	INFO	Listening on port 50569
+1592066233228	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592066269548	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileL6owiS"
+1592066273910	Marionette	INFO	Listening on port 50696
+1592066273995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1592066356023	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofilesTExrO"
+1592066359885	Marionette	INFO	Listening on port 50824
+1592066359905	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+1592066438852	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileP8rGPl"
+1592066442655	Marionette	INFO	Listening on port 50946
+1592066442733	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+1592067109530	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofile4n0gQe"
+1592067113240	Marionette	INFO	Listening on port 51169
+1592067113338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+1592067935961	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofilerbp5aa"
+1592067940510	Marionette	INFO	Listening on port 51359
+1592067940617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1592068170919	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofiler7cZHq"
+1592068175592	Marionette	INFO	Listening on port 51482
+1592068175664	Marionette	WARN	TLS certificate errors will be ignored for this session
+2020-06-13 19:11:17.197 plugin-container[1638:69920] PLClientLogging: unknown permission type 2
+1592068290345	Marionette	INFO	Stopped listening on port 51482
+1592068295419	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileJSeWE3"
+1592068299859	Marionette	INFO	Listening on port 51618
+1592068299916	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1592068355774	Marionette	INFO	Stopped listening on port 51618
+1592068396881	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofile8RVjjI"
+1592068401149	Marionette	INFO	Listening on port 51737
+1592068401220	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1592069006386	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileZuAmgc"
+1592069011585	Marionette	INFO	Listening on port 51931
+1592069011655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1592069601755	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileCixp0V"
+1592069607054	Marionette	INFO	Listening on port 52114
+1592069607131	Marionette	WARN	TLS certificate errors will be ignored for this session
+1592069661961	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofileJOeee4"
+1592069667119	Marionette	INFO	Listening on port 52257
+1592069667346	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+1592070241124	Marionette	INFO	Stopped listening on port 52114
+1592070246518	Marionette	INFO	Stopped listening on port 52257
+1592070308849	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofile9eEt2G"
+1592070313484	Marionette	INFO	Listening on port 52484
+1592070313568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6B0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592070374892	Marionette	INFO	Stopped listening on port 52484
+1592070377644	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/cp/4nhfl1qn5q9_w0ls0csndxw00000gn/T/rust_mozprofile2ujmOp"
+1592070382095	Marionette	INFO	Listening on port 52628
+1592070382171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource://gre/actors/PictureInPictureChild.jsm, line 114: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1592070703675	Marionette	INFO	Stopped listening on port 52628
+1592070709788	Marionette	INFO	Stopped listening on port 51359
+1592070717096	Marionette	INFO	Stopped listening on port 51737
+1592070721933	Marionette	INFO	Stopped listening on port 51169
+1592070726304	Marionette	INFO	Stopped listening on port 50569
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 697))
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1592070734601	Marionette	INFO	Stopped listening on port 49815
