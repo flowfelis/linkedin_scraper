@@ -136,14 +136,19 @@ class Person(Scraper):
             for position in exp.find_elements_by_class_name("pv-position-entity"):
                 position_title = position.find_element_by_tag_name("h3").text.encode('utf-8').strip()
 
-                try:
-                    company = position.find_element_by_class_name("pv-entity__secondary-title").text.encode(
-                        'utf-8').strip()
-                    times = position.find_element_by_class_name("pv-entity__date-range").text.encode('utf-8').strip()
-                    from_date, to_date, duration = time_divide(times)
-                except:
-                    company = None
-                    from_date, to_date = (None, None)
+                # try:
+                company = position.find_element_by_class_name("pv-entity__secondary-title").text.encode(
+                    'utf-8').strip()
+                dates = position.find_element_by_class_name("pv-entity__date-range"). \
+                    find_elements_by_css_selector("*")[1].text
+                dates = dates.split()
+                del dates[2]
+                from_date = ''.join(dates[:2])
+                to_date = ''.join(dates[2:])
+                # from_date, to_date, duration = time_divide(times)
+                # except:
+                #     company = None
+                #     from_date, to_date = (None, None)
                 try:
                     location = position.find_element_by_class_name("pv-entity__location").text.strip()
                 except:
